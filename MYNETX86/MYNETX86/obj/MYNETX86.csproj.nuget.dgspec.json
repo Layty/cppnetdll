@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DellMe\\source\\repos\\MYNETX86\\MYNETX86\\MYNETX86.csproj": {}
+    "C:\\Users\\DellMe\\source\\repos\\code\\cppnetdll\\cppnetdll\\cppnetdll\\MYNETX86\\MYNETX86\\MYNETX86.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DellMe\\source\\repos\\MYNETX86\\MYNETX86\\MYNETX86.csproj": {
+    "C:\\Users\\DellMe\\source\\repos\\code\\cppnetdll\\cppnetdll\\cppnetdll\\MYNETX86\\MYNETX86\\MYNETX86.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DellMe\\source\\repos\\MYNETX86\\MYNETX86\\MYNETX86.csproj",
+        "projectUniqueName": "C:\\Users\\DellMe\\source\\repos\\code\\cppnetdll\\cppnetdll\\cppnetdll\\MYNETX86\\MYNETX86\\MYNETX86.csproj",
         "projectName": "MYNETX86",
-        "projectPath": "C:\\Users\\DellMe\\source\\repos\\MYNETX86\\MYNETX86\\MYNETX86.csproj",
+        "projectPath": "C:\\Users\\DellMe\\source\\repos\\code\\cppnetdll\\cppnetdll\\cppnetdll\\MYNETX86\\MYNETX86\\MYNETX86.csproj",
         "packagesPath": "C:\\Users\\DellMe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DellMe\\source\\repos\\MYNETX86\\MYNETX86\\obj\\",
+        "outputPath": "C:\\Users\\DellMe\\source\\repos\\code\\cppnetdll\\cppnetdll\\cppnetdll\\MYNETX86\\MYNETX86\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

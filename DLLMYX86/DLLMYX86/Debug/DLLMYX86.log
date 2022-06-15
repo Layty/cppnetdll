@@ -3,8 +3,7 @@
   MyAbc.cpp
   MyWrap.cpp
   正在生成代码...
-C:\Users\DellMe\source\repos\DLLMYX86\DLLMYX86\dllmain.cpp : warning C4747: 调用托管“_DllMain@12”: 托管代码可能未运行在加载程序锁下，包括 DLL 入口点和从 DLL 入口点访问到的调用
   .NETFramework,Version=v4.0.AssemblyAttributes.cpp
   dllmain.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
-    正在创建库 C:\Users\DellMe\source\repos\DLLMYX86\Debug\DLLMYX86.lib 和对象 C:\Users\DellMe\source\repos\DLLMYX86\Debug\DLLMYX86.exp
-  DLLMYX86.vcxproj -> C:\Users\DellMe\source\repos\DLLMYX86\Debug\DLLMYX86.dll
+    正在创建库 C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\DLLMYX86\Debug\DLLMYX86.lib 和对象 C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\DLLMYX86\Debug\DLLMYX86.exp
+  DLLMYX86.vcxproj -> C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\DLLMYX86\Debug\DLLMYX86.dll

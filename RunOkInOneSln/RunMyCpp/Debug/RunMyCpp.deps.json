@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "netcoreapp3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "netcoreapp3.1": {
+      "RunMyCpp/1.0.0": {
+        "runtime": {
+          "RunMyCpp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RunMyCpp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

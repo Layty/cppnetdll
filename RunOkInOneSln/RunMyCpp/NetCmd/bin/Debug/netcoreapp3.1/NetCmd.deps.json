@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NetCmd/1.0.0": {
+        "dependencies": {
+          "RunMyCpp": "1.0.0"
+        },
+        "runtime": {
+          "NetCmd.dll": {}
+        }
+      },
+      "RunMyCpp/1.0.0": {
+        "runtime": {
+          "RunMyCpp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCmd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RunMyCpp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

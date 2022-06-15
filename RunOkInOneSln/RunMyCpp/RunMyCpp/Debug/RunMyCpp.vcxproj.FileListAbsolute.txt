@@ -1,0 +1,4 @@
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\Debug\Ijwhost.dll
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\Debug\RunMyCpp.deps.json
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\Debug\RunMyCpp.runtimeconfig.json
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\RunMyCpp\Debug\RunMyCpp.genruntimeconfig.cache

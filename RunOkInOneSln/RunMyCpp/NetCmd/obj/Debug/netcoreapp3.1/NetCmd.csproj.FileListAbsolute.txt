@@ -1,0 +1,17 @@
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\bin\Debug\netcoreapp3.1\Ijwhost.dll
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\bin\Debug\netcoreapp3.1\NetCmd.exe
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\bin\Debug\netcoreapp3.1\NetCmd.deps.json
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\bin\Debug\netcoreapp3.1\NetCmd.runtimeconfig.json
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\bin\Debug\netcoreapp3.1\NetCmd.runtimeconfig.dev.json
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\bin\Debug\netcoreapp3.1\NetCmd.dll
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\bin\Debug\netcoreapp3.1\NetCmd.pdb
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\bin\Debug\netcoreapp3.1\RunMyCpp.dll
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\bin\Debug\netcoreapp3.1\RunMyCpp.pdb
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\obj\Debug\netcoreapp3.1\NetCmd.csproj.AssemblyReference.cache
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\obj\Debug\netcoreapp3.1\NetCmd.AssemblyInfoInputs.cache
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\obj\Debug\netcoreapp3.1\NetCmd.AssemblyInfo.cs
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\obj\Debug\netcoreapp3.1\NetCmd.csproj.CoreCompileInputs.cache
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\obj\Debug\netcoreapp3.1\NetCmd.csproj.CopyComplete
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\obj\Debug\netcoreapp3.1\NetCmd.dll
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\obj\Debug\netcoreapp3.1\NetCmd.pdb
+C:\Users\DellMe\source\repos\code\cppnetdll\cppnetdll\cppnetdll\RunOk\RunMyCpp\NetCmd\obj\Debug\netcoreapp3.1\NetCmd.genruntimeconfig.cache
